@@ -1,0 +1,17 @@
+{
+  "_data_files": [
+    {
+      "filename": "data-00000-of-00001.arrow"
+    }
+  ],
+  "_fingerprint": "d92a2bcf3cbdbe76",
+  "_format_columns": [
+    "input_ids",
+    "attention_mask",
+    "labels"
+  ],
+  "_format_kwargs": {},
+  "_format_type": "torch",
+  "_output_all_columns": true,
+  "_split": null
+}
