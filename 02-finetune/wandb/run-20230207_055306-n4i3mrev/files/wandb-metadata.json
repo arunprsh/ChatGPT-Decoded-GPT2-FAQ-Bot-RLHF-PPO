@@ -1,0 +1,296 @@
+{
+    "os": "Linux-4.14.301-224.520.amzn2.x86_64-x86_64-with-glibc2.10",
+    "python": "3.8.10",
+    "heartbeatAt": "2023-02-07T05:53:06.683124",
+    "startedAt": "2023-02-07T05:53:06.155503",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "/root/how-to-train-faq-chatbot-from-scratch/02-finetune/01-finetune-oob-gpt2.ipynb",
+    "git": {
+        "remote": "https://github.com/arunprsh/how-to-train-faq-chatbot-from-scratch.git",
+        "commit": "74ec871f80f5d7ef7633bfc36c2b70307543a16c"
+    },
+    "email": "arunprsh@amazon.com",
+    "root": "/root/how-to-train-faq-chatbot-from-scratch",
+    "host": "pytorch-1-10-gpu--ml-g4dn-12xlarge-14fecedc15dcd66d30785ee21f10",
+    "username": "root",
+    "executable": "/opt/conda/bin/python",
+    "cpu_count": 24,
+    "cpu_count_logical": 48,
+    "cpu_freq": {
+        "current": 1708.6708125000005,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1649.416,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1641.952,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1621.754,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2701.003,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1569.287,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1771.393,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1574.02,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1527.254,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1618.184,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1635.563,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1521.424,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1527.426,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1424.692,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1872.554,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1692.742,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1623.318,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1647.595,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1668.57,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1649.176,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1574.508,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1639.025,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1676.204,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1663.808,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1673.904,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1569.541,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1704.836,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1654.211,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1564.39,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2342.028,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1733.111,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1606.5,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1684.985,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1745.891,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1745.762,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1588.837,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1605.052,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1864.911,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1815.735,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1726.085,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1738.094,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1787.83,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1767.437,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1602.007,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1927.497,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1750.979,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1781.746,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1768.275,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 1775.687,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 27.0,
+        "used": 1.7846221923828125
+    },
+    "gpu": "Tesla T4",
+    "gpu_count": 4,
+    "gpu_devices": [
+        {
+            "name": "Tesla T4",
+            "memory_total": 15843721216
+        },
+        {
+            "name": "Tesla T4",
+            "memory_total": 15843721216
+        },
+        {
+            "name": "Tesla T4",
+            "memory_total": 15843721216
+        },
+        {
+            "name": "Tesla T4",
+            "memory_total": 15843721216
+        }
+    ],
+    "memory": {
+        "total": 186.81336975097656
+    }
+}
