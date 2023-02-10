@@ -1,0 +1,43 @@
+{
+  "add_bos_token": false,
+  "add_prefix_space": false,
+  "bos_token": {
+    "__type": "AddedToken",
+    "content": "<|startoftext|>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  },
+  "eos_token": {
+    "__type": "AddedToken",
+    "content": "<|endoftext|>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  },
+  "errors": "replace",
+  "lower": true,
+  "model_max_length": 1000000000000000019884624838656,
+  "name_or_path": "../04-ppo/model/gpt2-ppo-bertscore",
+  "pad_token": {
+    "__type": "AddedToken",
+    "content": "<|pad|>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  },
+  "return_tensors": "pt",
+  "special_tokens_map_file": null,
+  "tokenizer_class": "GPT2Tokenizer",
+  "unk_token": {
+    "__type": "AddedToken",
+    "content": "<|endoftext|>",
+    "lstrip": false,
+    "normalized": true,
+    "rstrip": false,
+    "single_word": false
+  }
+}
